@@ -1,0 +1,59 @@
+{
+    "uciWhite": "manchess",
+    "uciBlack": "manchess",
+    "uciHint": "manchess",
+    "uciEngines": [
+        {
+            "name": "manchess",
+            "engine": "/Users/kro1be/workspace/ml/man-chess/engine/dist/main/main",
+            "hash": 128,
+            "ponder": false,
+            "ownBook": false,
+            "multiPV": 1,
+            "depth": 3,
+            "searchMoves": "",
+            "moveTime": 100,
+            "options": [
+                {
+                    "name": "skill level",
+                    "value": "3"
+                }
+            ]
+        }
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "activeTheme": "basic",
+    "theme": [
+        {
+            "name": "basic",
+            "moveLabelBg": "#d0d0d0",
+            "moveLabelFg": "#000000",
+            "squareDark": "#d7d7d7",
+            "squareLight": "#ffffd7",
+            "squareHigh": "#ffff00",
+            "squareHint": "#ffd7af",
+            "squareCheck": "#ffafd7",
+            "white": "#080808",
+            "black": "#080808",
+            "msg": "#d70000",
+            "rank": "#9e9e9e",
+            "file": "#9e9e9e",
+            "prompt": "#d70000",
+            "meterBase": "#585858",
+            "meterMid": "#0",
+            "meterNeutral": "#00d7ff",
+            "meterWin": "#87ffd7",
+            "meterLose": "#d75f5f",
+            "playerNames": "#0",
+            "score": "#9e9e9e",
+            "moveBox": "#0",
+            "emoji": "#0",
+            "input": "#0",
+            "advantage": "#9e9e9e"
+        }
+    ],
+    "whitePiece": "human",
+    "blackPiece": "cpu",
+    "whiteName": "",
+    "blackName": ""
+}

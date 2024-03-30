@@ -1,0 +1,258 @@
+00:49:41 Manchess< isready
+00:49:41 Manchess> readyok
+00:50:11 Manchess< quit
+01:12:03 Manchess> [93mReadline features including tab completion have been disabled because
+no supported version of readline was found. To resolve this, install
+pyreadline3 on Windows or gnureadline on Linux/Mac.
+
+[39m
+01:12:04 Manchess< uci
+01:12:04 Manchess> id name Manchess
+01:12:04 Manchess> id author Manoj Krovvidi
+01:12:04 Manchess> uciok
+01:12:04 Manchess< isready
+01:12:04 Manchess> readyok
+01:12:04 Manchess< ucinewgame
+01:12:36 Manchess< quit
+01:12:36 Manchess> [93mReadline features including tab completion have been disabled because
+no supported version of readline was found. To resolve this, install
+pyreadline3 on Windows or gnureadline on Linux/Mac.
+
+[39m
+01:12:36 Manchess< uci
+01:12:36 Manchess> id name Manchess
+01:12:36 Manchess> id author Manoj Krovvidi
+01:12:36 Manchess> uciok
+01:12:36 Manchess< isready
+01:12:36 Manchess> readyok
+01:12:36 Manchess< ucinewgame
+01:12:38 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6
+01:12:38 Manchess< go wtime 900000 btime 910000 winc 10000 binc 10000 movestogo 19
+01:13:36 Manchess< isready
+01:13:51 Manchess> Error: Manchess stalled too long or crashed. Stopped!
+01:26:42 Manchess> [93mReadline features including tab completion have been disabled because
+no supported version of readline was found. To resolve this, install
+pyreadline3 on Windows or gnureadline on Linux/Mac.
+
+[39m
+01:26:43 Manchess< uci
+01:26:43 Manchess> id name Manchess
+01:26:43 Manchess> id author Manoj Krovvidi
+01:26:43 Manchess> uciok
+01:26:43 Manchess< isready
+01:26:43 Manchess> readyok
+01:26:43 Manchess< ucinewgame
+01:26:47 Manchess< quit
+01:26:48 Manchess> [93mReadline features including tab completion have been disabled because
+no supported version of readline was found. To resolve this, install
+pyreadline3 on Windows or gnureadline on Linux/Mac.
+
+[39m
+01:26:48 Manchess< uci
+01:26:48 Manchess> id name Manchess
+01:26:48 Manchess> id author Manoj Krovvidi
+01:26:48 Manchess> uciok
+01:26:48 Manchess< isready
+01:26:48 Manchess> readyok
+01:26:48 Manchess< ucinewgame
+01:26:50 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6
+01:26:50 Manchess< go wtime 900000 btime 910000 winc 10000 binc 10000 movestogo 19
+01:26:59 Manchess> Total moves evaluated: 7737
+01:26:59 Manchess> bestmove d5f4
+01:27:12 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7
+01:27:12 Manchess< go wtime 897000 btime 911427 winc 10000 binc 10000 movestogo 18
+01:27:12 hm::Manoj> move g7h7
+01:27:13 Manchess> Total moves evaluated: 8131
+01:27:13 Manchess> bestmove f8e7
+01:27:15 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8
+01:27:15 Manchess< go wtime 905000 btime 920509 winc 10000 binc 10000 movestogo 17
+01:27:15 hm::Manoj> move h7h8
+01:27:23 Manchess> Total moves evaluated: 16241
+01:27:23 Manchess> bestmove c6d4
+01:28:09 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8
+01:28:09 Manchess< go wtime 869000 btime 923071 winc 10000 binc 10000 movestogo 16
+01:28:09 hm::Manoj> move h6f8
+01:28:11 Manchess> Total moves evaluated: 17826
+01:28:11 Manchess> bestmove e7e8
+01:28:14 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7
+01:28:14 Manchess< go wtime 876000 btime 931909 winc 10000 binc 10000 movestogo 15
+01:28:14 hm::Manoj> move f8g7
+01:28:15 Manchess> Total moves evaluated: 18438
+01:28:15 Manchess> bestmove e8e7
+01:28:17 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4
+01:28:17 Manchess< go wtime 885000 btime 941444 winc 10000 binc 10000 movestogo 14
+01:28:17 hm::Manoj> move g7d4
+01:28:23 Manchess> Total moves evaluated: 28375
+01:28:23 Manchess> bestmove e6e5
+01:28:26 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5
+01:28:26 Manchess< go wtime 892000 btime 945422 winc 10000 binc 10000 movestogo 13
+01:28:26 hm::Manoj> move d4e5
+01:28:32 Manchess> Total moves evaluated: 34818
+01:28:32 Manchess> bestmove f4d3
+01:28:43 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3
+01:28:43 Manchess< go wtime 892000 btime 949618 winc 10000 binc 10000 movestogo 12
+01:28:43 hm::Manoj> move c2d3
+01:28:45 Manchess> Total moves evaluated: 37018
+01:28:45 Manchess> bestmove d7d6
+01:29:07 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4
+01:29:07 Manchess< go wtime 880000 btime 957539 winc 10000 binc 10000 movestogo 11
+01:29:07 hm::Manoj> move e5f4
+01:29:11 Manchess> Total moves evaluated: 39642
+01:29:11 Manchess> bestmove e7f6
+01:29:15 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2
+01:29:15 Manchess< go wtime 887000 btime 963438 winc 10000 binc 10000 movestogo 10
+01:29:15 hm::Manoj> move e1d2
+01:29:19 Manchess> Total moves evaluated: 42829
+01:29:19 Manchess> bestmove f6g7
+01:29:40 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8
+01:29:40 Manchess< go wtime 876000 btime 969130 winc 10000 binc 10000 movestogo 9
+01:29:40 hm::Manoj> move h8e8
+01:29:45 Manchess> Total moves evaluated: 46509
+01:29:45 Manchess> bestmove g7h7
+01:29:50 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1
+01:29:50 Manchess< go wtime 882000 btime 974434 winc 10000 binc 10000 movestogo 8
+01:29:50 hm::Manoj> move a1g1
+01:29:54 Manchess> Total moves evaluated: 49784
+01:29:54 Manchess> bestmove a8b8
+01:30:19 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7
+01:30:19 Manchess< go wtime 867000 btime 980350 winc 10000 binc 10000 movestogo 7
+01:30:19 hm::Manoj> move e8e7
+01:30:23 Manchess> Total moves evaluated: 51900
+01:30:23 Manchess> bestmove c8e6
+01:30:29 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5
+01:30:29 Manchess< go wtime 871000 btime 986592 winc 10000 binc 10000 movestogo 6
+01:30:29 hm::Manoj> move f3g5
+01:30:31 Manchess> Total moves evaluated: 53049
+01:30:31 Manchess> bestmove h7h8
+01:30:43 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6
+01:30:43 Manchess< go wtime 870000 btime 995123 winc 10000 binc 10000 movestogo 5
+01:30:43 hm::Manoj> move g5e6
+01:30:46 Manchess> Total moves evaluated: 56082
+01:30:46 Manchess> bestmove f7e6
+01:30:51 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7
+01:30:51 Manchess< go wtime 876000 btime 1001690 winc 10000 binc 10000 movestogo 4
+01:30:51 hm::Manoj> move g1g7
+01:30:53 Manchess> Total moves evaluated: 59000
+01:30:53 Manchess> bestmove b8f8
+01:31:04 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7
+01:31:04 Manchess< go wtime 875000 btime 1009731 winc 10000 binc 10000 movestogo 3
+01:31:04 hm::Manoj> move e7c7
+01:31:07 Manchess> Total moves evaluated: 62963
+01:31:07 Manchess> bestmove f8f4
+01:31:22 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7
+01:31:22 Manchess< go wtime 871000 btime 1017172 winc 10000 binc 10000 movestogo 2
+01:31:22 hm::Manoj> move g7h7
+01:31:22 Manchess> Total moves evaluated: 63263
+01:31:22 Manchess> bestmove h8g8
+01:31:29 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7 h8g8 c7e7
+01:31:29 Manchess< go wtime 874000 btime 1026963 winc 10000 binc 10000 movestogo 1
+01:31:29 hm::Manoj> move c7e7
+01:31:32 Manchess> Total moves evaluated: 67501
+01:31:32 Manchess> bestmove f4f2
+01:31:34 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7 h8g8 c7e7 f4f2 d2e3
+01:31:34 Manchess< go wtime 1782000 btime 1934276 winc 10000 binc 10000 movestogo 30
+01:31:34 hm::Manoj> move d2e3
+01:31:37 Manchess> Total moves evaluated: 71671
+01:31:37 Manchess> bestmove f2c2
+01:31:45 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7 h8g8 c7e7 f4f2 d2e3 f2c2 h7g7
+01:31:45 Manchess< go wtime 1785000 btime 1941536 winc 10000 binc 10000 movestogo 29
+01:31:45 hm::Manoj> move h7g7
+01:31:45 Manchess> Total moves evaluated: 72067
+01:31:45 Manchess> bestmove g8f8
+01:31:50 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7 h8g8 c7e7 f4f2 d2e3 f2c2 h7g7 g8f8 g7f7
+01:31:50 Manchess< go wtime 1790000 btime 1951267 winc 10000 binc 10000 movestogo 28
+01:31:50 hm::Manoj> move g7f7
+01:31:50 Manchess> Total moves evaluated: 72309
+01:31:50 Manchess> bestmove f8g8
+01:32:07 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7 h8g8 c7e7 f4f2 d2e3 f2c2 h7g7 g8f8 g7f7 f8g8 e7c7
+01:32:07 Manchess< go wtime 1784000 btime 1961109 winc 10000 binc 10000 movestogo 27
+01:32:07 hm::Manoj> move e7c7
+01:32:09 Manchess> Total moves evaluated: 76351
+01:32:09 Manchess> bestmove c2h2
+01:32:12 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7 h8g8 c7e7 f4f2 d2e3 f2c2 h7g7 g8f8 g7f7 f8g8 e7c7 c2h2 f7d7
+01:32:12 Manchess< go wtime 1791000 btime 1968746 winc 10000 binc 10000 movestogo 26
+01:32:12 hm::Manoj> move f7d7
+01:32:15 Manchess> Total moves evaluated: 79043
+01:32:15 Manchess> bestmove h2h3
+01:32:18 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7 h8g8 c7e7 f4f2 d2e3 f2c2 h7g7 g8f8 g7f7 f8g8 e7c7 c2h2 f7d7 h2h3 e3d2
+01:32:18 Manchess< go wtime 1799000 btime 1976561 winc 10000 binc 10000 movestogo 25
+01:32:18 hm::Manoj> move e3d2
+01:32:19 Manchess> Total moves evaluated: 83002
+01:32:19 Manchess> bestmove h3h2
+01:32:24 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7 h8g8 c7e7 f4f2 d2e3 f2c2 h7g7 g8f8 g7f7 f8g8 e7c7 c2h2 f7d7 h2h3 e3d2 h3h2 d2c1
+01:32:24 Manchess< go wtime 1805000 btime 1984637 winc 10000 binc 10000 movestogo 24
+01:32:24 hm::Manoj> move d2c1
+01:32:26 Manchess> Total moves evaluated: 85852
+01:32:26 Manchess> bestmove h2h1
+01:32:27 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7 h8g8 c7e7 f4f2 d2e3 f2c2 h7g7 g8f8 g7f7 f8g8 e7c7 c2h2 f7d7 h2h3 e3d2 h3h2 d2c1 h2h1 c1b2
+01:32:27 Manchess< go wtime 1814000 btime 1992604 winc 10000 binc 10000 movestogo 23
+01:32:27 hm::Manoj> move c1b2
+01:32:29 Manchess> Total moves evaluated: 88640
+01:32:29 Manchess> bestmove h1h2
+01:32:31 Manchess< position startpos moves e2e4 e7e6 d2d4 d8h4 b1c3 f8b4 a2a3 h4e4 c1e3 b4c3 b2c3 b8c6 f1d3 e4g2 d1f3 g2f3 g1f3 g8e7 h1g1 e7d5 g1g7 e8f8 e3h6 d5f4 g7h7 f8e7 h7h8 c6d4 h6f8 e7e8 f8g7 e8e7 g7d4 e6e5 d4e5 f4d3 c2d3 d7d6 e5f4 e7f6 e1d2 f6g7 h8e8 g7h7 a1g1 a8b8 e8e7 c8e6 f3g5 h7h8 g5e6 f7e6 g1g7 b8f8 e7c7 f8f4 g7h7 h8g8 c7e7 f4f2 d2e3 f2c2 h7g7 g8f8 g7f7 f8g8 e7c7 c2h2 f7d7 h2h3 e3d2 h3h2 d2c1 h2h1 c1b2 h1h2 b2b3
+01:32:31 Manchess< go wtime 1823000 btime 2000520 winc 10000 binc 10000 movestogo 22
+01:32:31 hm::Manoj> move b2b3
+01:32:33 Manchess> Total moves evaluated: 91192
+01:32:33 Manchess> bestmove b7b5
+01:32:36 hm::Manoj> move c7c8
+01:49:37 Manchess< isready
+01:49:37 Manchess> Error: Manchess stalled too long or crashed. Stopped!
+01:49:37 Manchess> readyok
+10:34:11 Manchess> [93mReadline features including tab completion have been disabled because
+no supported version of readline was found. To resolve this, install
+pyreadline3 on Windows or gnureadline on Linux/Mac.
+
+[39m
+10:34:12 Manchess< uci
+10:34:12 Manchess> id name Manchess
+10:34:12 Manchess> id author Manoj Krovvidi
+10:34:12 Manchess> uciok
+10:34:12 Manchess< isready
+10:34:12 Manchess> readyok
+10:34:12 Manchess< ucinewgame
+10:35:12 Manchess< isready
+10:35:12 Manchess> readyok
+10:35:24 Manchess> [93mReadline features including tab completion have been disabled because
+no supported version of readline was found. To resolve this, install
+pyreadline3 on Windows or gnureadline on Linux/Mac.
+
+[39m
+10:35:24 Manchess< uci
+10:35:24 Manchess> id name Manchess
+10:35:24 Manchess> id author Manoj Krovvidi
+10:35:24 Manchess> uciok
+10:35:24 Manchess< isready
+10:35:24 Manchess> readyok
+10:35:24 Manchess< ucinewgame
+10:35:27 Manchess< position startpos moves e2e4
+10:35:27 Manchess< go wtime 897000 btime 900000 winc 10000 binc 10000 movestogo 30
+10:35:27 hm::Manoj> move e2e4
+10:35:59 Manchess> Total moves evaluated: 41634
+10:35:59 Manchess> bestmove d7d5
+10:36:12 Manchess< isready
+10:36:12 Manchess> readyok
+10:36:12 Manchess< position startpos moves e2e4 d7d5 b1c3
+10:36:12 Manchess< go wtime 894000 btime 878416 winc 10000 binc 10000 movestogo 29
+10:36:12 hm::Manoj> move b1c3
+10:36:59 Manchess< isready
+10:37:05 Manchess> Total moves evaluated: 104627
+10:37:05 Manchess> bestmove d8d7
+10:37:05 Manchess> readyok
+10:37:08 Manchess< position startpos moves e2e4 d7d5 b1c3 d8d7 d2d4
+10:37:08 Manchess< go wtime 902000 btime 834839 winc 10000 binc 10000 movestogo 28
+10:37:08 hm::Manoj> move d2d4
+10:37:12 Manchess< isready
+10:37:12 Manchess> readyok
+10:38:05 Manchess< isready
+10:38:12 Manchess< isready
+10:38:12 Manchess> readyok
+10:38:20 Manchess> Error: Manchess stalled too long or crashed. Stopped!
+10:38:24 Manchess> readyok
+10:38:39 Manchess< position startpos moves e2e4 d7d5 b1c3 d8d7 d2d4 d5e4 c3e4
+10:38:39 Manchess< go wtime 898000 btime 768413 winc 10000 binc 10000 movestogo 27
+10:38:39 hm::Manoj> move c3e4
+10:39:12 Manchess< isready
+10:39:12 Manchess> readyok
+10:39:24 Manchess< isready
+10:39:39 Manchess> Error: Manchess stalled too long or crashed. Stopped!
+10:39:58 Manchess< quit
